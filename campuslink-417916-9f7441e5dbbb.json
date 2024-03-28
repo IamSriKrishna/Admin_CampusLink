@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "campuslink-417916",
+  "private_key_id": "9f7441e5dbbb98ce66be70a504e6ff875773bb3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBweqxgN7ahTwE\nPkepnhzlrrtn5uaxyxFwRZcEqbtHr8cMaB3ZtozMynIcYloVT1EVrO5Hk/JZojMi\neTexs7+yw5haYlwryoyx2ZDpy9zK/I+FtixYCZDEDYU708jKuFw34M0wFAq2sQlf\nUfmSYF+HRiPU90UuyWguPRVRCEeJaz8Sxihokhxd8HPfngIABf8mr6Bxgi5m2JLA\nu/LCVlGFjoDUh7t7dR/PMOjyW/xdV0U+JykX2Re9c7PH8zbp4/j7AHnkzDepQCOu\nBPaYN6u3cS+gIUeEHh9fzc0D4yttokckyuIbFT1gaA9p7jqgmDW2tQOYPrrhKaW7\nfDtWHfkxAgMBAAECggEAD1PoXZdsycutdkZ5A9WSwqbCg5M0H8+JNyECM+e7fY3N\nyND5v43d8Jt5UH6FUtc9+mF+TiJJk0auFeWR/thR63HmvQu37+zrmWw1NxGeC17U\necbyFhrXnXLWXefApCzWesMpaErFmDNEIwrInAhMtlZZolDXY76iI7pIU+s8QYYb\nr6NbvaCjqgAwe1uP32UUAegHniY63sEUFJGzbJHzNJmwxtyDc19OrnDd24ReN9Mw\nC25EK1/YKAVFsjCulfgUFk6xHgqHHnZRk6+ttSjLk9vw3noCPgraoW4Ov4Eq/0WQ\nG45wKdBCvDpd0jbIqOgp6xmC+7NnfTSOvDHkv0UZeQKBgQDggZTQoqlfqi9dcUdJ\n11UK5pPVNGIExY0+m/66ji/sMLjGif36iNNvNwWyPbJyKq1iQ2Z0ppTXmKIGShAr\n+OZK2p7kU4rYsRbNHeEtYkqqDHCZczPjjv982fVoJKii+gODxjXXQoZmeutuicrn\n1+hqogtAMPu3j3Pwru9A8ukafQKBgQDc8BhQcO+DHty9eWwDu+n9jxY2hzmKu4qK\nZxCFPp/TyZHKKeKLZyzu2QY9U/5or3iW1TXMur2Fc9PKTj5BP+naJw7hQJbcaiD9\nx/+SjqhoqasNgFt+E27XPpVnb8MWcOBxGZMBzB5UUSaCxpRntfTbYxp9M73OerdD\n/Fku94ujxQKBgQCcEZjZPOrPpShOJixvqbDl5grJASROuuKIrrrzB1tLL0eURWN4\n4dtSCgb8tKUzdnWXxNEZsJ/yDJo+EwiQ+PNm//nLMkRohRsbtnTOLvFGq2UvV4Wv\n4L29FmviXPGacoE0/vp4zTdPUI4QBtw2NcLNNh7qHeMu5RutKn8KQJNJpQKBgEQH\n2jTK0bV6R1ZAkTYFIuPkr15S/TDu1pYPblLZGbXJF488nnl2Z6uUQAuaVXg+r88i\nD9LenYT+SXS96wWEfKmj5T0O+mUceNQsRVIHg2vW8sjRgVqs+TBmIPMcwuGiGDo7\nOb0P8TbdVhJmu0PED4WOWpW63PM7bjsM9Rk1OFZRAoGBAMuQKp0s13xYH16F3Fzr\n+j7qFGsyu46PPgPINoi2jCOPzVc94CJwLDN3/ZCNUNTM2cgbQtMRBv4Kn+PJH2Iq\nT8qh/HQiQ5TzhJDR1mLIujtVmCLLHP8zgkdU2wJE5i0YmwUSSai9utlhLQiH7VwB\nV/OGLDumdLL9xSohHrnqSkqN\n-----END PRIVATE KEY-----\n",
+  "client_email": "campuslink@campuslink-417916.iam.gserviceaccount.com",
+  "client_id": "106504467370360565819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/campuslink%40campuslink-417916.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
