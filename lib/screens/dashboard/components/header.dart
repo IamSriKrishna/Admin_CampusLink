@@ -1,6 +1,5 @@
 import 'package:admin/controllers/MenuAppController.dart';
 import 'package:admin/responsive.dart';
-import 'package:admin/screens/Students/Widget/TotalStudentList.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:provider/provider.dart';
@@ -90,7 +89,7 @@ class SearchField extends StatelessWidget {
   Widget build(BuildContext context) {
     final provider = Provider.of<MenuAppController>(context);
     return TextField(
-      onTap:  () => provider.changeIndex(1),
+      onTap:  () => provider.changeIndex(3),
       controller: search,
       decoration: InputDecoration(
         hintText: "Search",
